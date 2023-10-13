@@ -1,8 +1,10 @@
-# Marketing_Data_Science
+# Customer-Marketing_Data_Science
 
-Assume you work in marketing and want to see if your advertising investments were worthwhile. In order to find the worth of marketing channels, we can use **Media Mixing model(MMM)**.
+Assume you work in customer intelligence or marketing tech want to see if your advertising investments were worthwhile or user behavior trends to improve customer retention/customer segmention to target campaigns. 
 
 **MMM** will tell you which advertising factor is driving your sales. I have also covered **Bayesian marketing mix modeling**, a way to get more robust models and uncertainty estimates for everything you forecast.
+
+For customer retention, we can use cohort retention analysis techniques to learn about user behavior 
 
 I also included the Causal inference using **Pymc** and **Google Bayesian** python package 
 
@@ -16,3 +18,7 @@ Based paper [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based R
 
 ## CLV : Customer Lifetime Value
 "understanding and acting on customer lifetime value (CLV) is the most important part of your business’s sales efforts
+
+## Cohort Rentension Analysis (cohort_rentention_analysis.ipynb)
+Cohort retention analysis helps teams understand how well their product is engaging and retaining different groups of users over time. This information can be used to improve the product and customer experience, and to make better business decisions.
+
