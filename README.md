@@ -16,9 +16,19 @@ The company is rapidly expanding, and the marketing team is looking for ways to 
 **Offline campaign Measurment** (ATE_ measurement_offine_campaign.ipynb)
 Based paper [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based Regression](https://research.google/pubs/pub45950/), I implemented time-based regression (TBR) approach to measuring of offline marketing campaign analysis in the context of geo experimentation.
 
+
+ ## Uplift Modeling (uolift_Model.ipynb)
+Maximizing the incremental return of your marketing campaigns
+**Problem Statement** : Image your marketing team/department wanted a model that could distinguish between customers who would respond positively to a marketing campaign (Responders) and those who would respond negatively if left untreated but positively if targeted (Anti-Responders). In other words, they sought a way to maximize the incremental impact of their marketing efforts.
+
+Uplift modeling, a magical technique, promised to unveil the true impact of marketing interventions on individual customers. It aimed not just to predict who would respond positively to a campaign, but more importantly, who would respond better if treated compared to not being treated.
+
 ## CLV : Customer Lifetime Value
 "understanding and acting on customer lifetime value (CLV) is the most important part of your business’s sales efforts
 
 ## Cohort Rentension Analysis (cohort_rentention_analysis.ipynb)
 Cohort retention analysis helps teams understand how well their product is engaging and retaining different groups of users over time. This information can be used to improve the product and customer experience, and to make better business decisions.
+
+
+
 
