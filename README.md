@@ -18,7 +18,9 @@ Based paper [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based R
 
 
  ## Uplift Modeling (uolift_Model.ipynb)
+ 
 Maximizing the incremental return of your marketing campaigns
+
 **Problem Statement** : Image your marketing team/department wanted a model that could distinguish between customers who would respond positively to a marketing campaign (Responders) and those who would respond negatively if left untreated but positively if targeted (Anti-Responders). In other words, they sought a way to maximize the incremental impact of their marketing efforts.
 
 Uplift modeling, a magical technique, promised to unveil the true impact of marketing interventions on individual customers. It aimed not just to predict who would respond positively to a campaign, but more importantly, who would respond better if treated compared to not being treated.
