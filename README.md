@@ -31,7 +31,9 @@ Uplift modeling, a magical technique, promised to unveil the true impact of mark
 ## Cohort Rentension Analysis (cohort_rentention_analysis.ipynb)
 Cohort retention analysis helps teams understand how well their product is engaging and retaining different groups of users over time. This information can be used to improve the product and customer experience, and to make better business decisions.
 
-## Estimating Causal Impacts when is no control groups using quasi-experimental methods (Causal-impact_synthetic-controls.ipynb)
+### Estimating Causal Impacts when there is no control groups using quasi-experimental methods (Causal-impact_synthetic-controls.ipynb)
+Causal Impacts estimating the impact. ie. what would have happened, if the intervention/treatment had not taken place. This is a counterfactual question, since we want to compare the actual  vs what would have been if  treatment was not given.
+Although we can't oberserve the counterfactual (which has been named as the [Fundamental Problem of Causal Inference](https://en.wikipedia.org/wiki/Rubin_causal_model#:~:text=The%20Fundamental%20Problem%20of%20Causal%20Inference%20is%20that%20it%20is,to%20estimate%20the%20missing%20counterfactuals)), there are many quasi-experimental methods that can help us to estimate this. Here, we will use the Synthetic Control estimator to estimate the counterfactual after the intervention period.
 
 
 
