@@ -17,7 +17,7 @@ The company is rapidly expanding, and the marketing team is looking for ways to 
 Based paper [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based Regression](https://research.google/pubs/pub45950/), I implemented time-based regression (TBR) approach to measuring of offline marketing campaign analysis in the context of geo experimentation.
 
 
- ## Uplift Modeling (uolift_Model.ipynb)
+ ## Uplift Modeling (uplift_Model.ipynb)
  
 Maximizing the incremental return of your marketing campaigns
 
@@ -30,6 +30,8 @@ Uplift modeling, a magical technique, promised to unveil the true impact of mark
 
 ## Cohort Rentension Analysis (cohort_rentention_analysis.ipynb)
 Cohort retention analysis helps teams understand how well their product is engaging and retaining different groups of users over time. This information can be used to improve the product and customer experience, and to make better business decisions.
+
+## Estimating Causal Impacts when is no control groups using quasi-experimental methods (Causal-impact_synthetic-controls.ipynb)
 
 
 
