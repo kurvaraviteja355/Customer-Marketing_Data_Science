@@ -4,8 +4,14 @@ Assume you work in customer intelligence or marketing tech want to see if your a
 
 **MMM** will tell you which advertising factor is driving your sales. I have also covered **Bayesian marketing mix modeling**, a way to get more robust models and uncertainty estimates for everything you forecast.
 
-For customer retention, we can use cohort retention analysis techniques to learn about user behavior 
+## Practical Approaches to Optimizng Budget in Marketing Mix Modeling using saturation curves and statistical models (budget_optimization_mmm.ipynb)
 
+Marketing Mix Modeling (MMM) is a data-driven approach used to analyze key drivers of business outcomes, like sales or revenue. It examines factors influencing responses to optimize marketing activities such as advertising, pricing, and promotions. MMM focuses on understanding the impact of marketing contributions, particularly advertising spend in various media channels, to provide insights on improving business performance. By evaluating the effectiveness of advertising spend, MMM helps identify the most impactful channels for increasing sales and revenue while suggesting adjustments or eliminations to maximize marketing ROI
+
+
+
+
+For customer retention, we can use cohort retention analysis techniques to learn about user behavior 
 I also included the Causal inference using **Pymc** and **Google Bayesian** python package 
 
 ## Measurement of Campaign treatment 
